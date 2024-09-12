@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="true"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>444</fr:anchor><fr:addr
+type="user">hello</fr:addr><fr:route>index.xml</fr:route><fr:title
+text="Hello, World!">Hello, World!</fr:title><fr:taxon>Person</fr:taxon><fr:authors><fr:author>Matt Cuffaro</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>This is my first tree. I am looking for a neat way to make my own zettlekasten.</fr:p><fr:p>I love mathematics!</fr:p><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>355</fr:anchor><fr:addr
+type="user">grove-organizational-philosophy</fr:addr><fr:route>grove-organizational-philosophy.xml</fr:route><fr:title
+text="Organizational Philosophy">Organizational Philosophy</fr:title><fr:taxon>Grove</fr:taxon><fr:authors><fr:author>Matt Cuffaro</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>There are two organizational styles governing the Grove. The first is atomicity. Consistent with the explanation given by Jon Sterling, and by extension to Zettlekasten, knowledge is represented by small notes with a sophisticated interlinkage. Priority is given to <fr:em>mediation</fr:em> of notes, which in this category take shape as networks.</fr:p><fr:p>The second is based on my style for reading books, which is slow, plodding (if not glacial), and line-by-line. I take a lot of notes on books. So my notes generally cover books on a paragraph-level of granularity. They will contribute to other notes. Priority is given to a sequential progression through the entirety of something, or <fr:em>totality</fr:em>.</fr:p><fr:p>For example, in <fr:em>Capital</fr:em> and <fr:em>Grundrisse</fr:em>, Marx	makes recurrent but varying use of the same words such as "class". Therefore its necessary to have a single Class notes which is built up of smaller notes for each sense.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>357</fr:anchor><fr:addr
+type="user">grove-002</fr:addr><fr:route>grove-002.xml</fr:route><fr:title
+text="Purpose">Purpose</fr:title><fr:taxon>Grove</fr:taxon><fr:authors><fr:author>Matt Cuffaro</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>This forest is used to aggregate different notes, ideas, and research projects.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:ul><fr:li><fr:link
+type="local"
+href="circle-of-circles.xml"
+addr="circle-of-circles"
+title="The Circle of Circles">Circle of Circles</fr:link>, my exegetical project</fr:li>
+<fr:li><fr:link
+type="local"
+href="goldblatt-14.xml"
+addr="goldblatt-14"
+title="Ch. 14">Exercises</fr:link></fr:li>
+<fr:li><fr:link
+type="local"
+href="information-geometry.xml"
+addr="information-geometry"
+title="Information Geometry">Information Geometry</fr:link></fr:li></fr:ul></fr:mainmatter><fr:backmatter /></fr:tree>
